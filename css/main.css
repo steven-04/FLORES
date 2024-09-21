@@ -46,7 +46,7 @@ body {
   position: absolute; /* o relative dependiendo de tu diseño */
   left: 20px; /* o right: 20px; si lo quieres a la derecha */
   top: 50%; /* para centrar verticalmente */
-  transform: translate(750px, 260px); /* ajusta horizontal y verticalmente */
+  transform: translate(50px, -20px); /* ajusta horizontal y verticalmente */
 
   font-size: 24px; /* tamaño de la fuente */
   color: #fff; /* o el color que prefieras */
